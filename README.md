@@ -1,2 +1,2 @@
-# prog_py
+# py
 Python Projects
